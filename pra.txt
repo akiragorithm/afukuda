@@ -1,0 +1,17 @@
+
+TY  - JOUR
+AU  - BROWN, J. DAVID
+AU  - EARLE, JOHN S.
+TI  - Finance and Growth at the Firm Level: Evidence from SBA Loans
+JO  - The Journal of Finance
+JA  - The Journal of Finance
+VL  - 72
+IS  - 3
+SN  - 0022-1082
+UR  - https://doi.org/10.1111/jofi.12492
+DO  - https://doi.org/10.1111/jofi.12492
+SP  - 1039
+EP  - 1080
+PY  - 2017
+AB  - ABSTRACT We analyze linked databases on all SBA loans and lenders and on all U.S. employers to estimate the effects of financial access on employment growth. Estimation exploits the long panels and variation in local availability of SBA-intensive lenders. The results imply an increase of 3?3.5 jobs for each million dollars of loans, suggesting real effects of credit constraints. Estimated impacts are stronger for younger and larger firms and when local credit conditions are weak, but we find no clear evidence of cyclical variation. We estimate taxpayer costs per job created in the range of $21,000?$25,000.
+ER  - 
